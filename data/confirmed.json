@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "games": [
+    {
+      "name": "DayZ",
+      "executables": [
+        {
+          "name": "DayZ_x64.exe",
+          "os": "linux",
+          "verified": true,
+          "method": "beako-process-test"
+        },
+        {
+          "name": "DayZ.exe",
+          "os": "linux",
+          "verified": true,
+          "method": "beako-process-test"
+        }
+      ]
+    },
+    {
+      "name": "Grand Theft Auto: San Andreas",
+      "executables": [
+        {
+          "name": "gta_sa.exe",
+          "os": "linux",
+          "verified": true,
+          "method": "beako-process-test"
+        }
+      ]
+    },
+    {
+      "name": "Risk of Rain 2",
+      "executables": [
+        {
+          "name": "Risk of Rain 2.exe",
+          "os": "linux",
+          "verified": true,
+          "method": "beako-process-test"
+        }
+      ]
+    }
+  ]
+}
