@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T10:26:40.046442+00:00",
+  "generated_at": "2026-11-01T11:21:08.169474+00:00",
   "source": "discord-detectable",
-  "count": 25065,
+  "count": 25081,
   "games": [
     {
       "id": "1440131275427020890",
@@ -817,12 +817,12 @@
       "name": "2XKO",
       "executables": [
         {
-          "name": "2xko/live/lion/binaries/win64/lion-win64-shipping.exe",
+          "name": "2xko/live/lion/binaries/win64/lion.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "2xko/live/lion/binaries/win64/lion.exe",
+          "name": "2xko/live/lion/binaries/win64/lion-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -1260,12 +1260,12 @@
       "name": "7 Days to Die",
       "executables": [
         {
-          "name": "7daystodie_eac.exe",
+          "name": "7daystodie.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "7daystodie.exe",
+          "name": "7daystodie_eac.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -1831,12 +1831,12 @@
       "name": "A Hat in Time",
       "executables": [
         {
-          "name": "binaries/modmanager.exe",
+          "name": "hatintimegame.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "hatintimegame.exe",
+          "name": "binaries/modmanager.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -2069,12 +2069,12 @@
       "name": "A Plague Tale: Requiem",
       "executables": [
         {
-          "name": "aplaguetalerequiem/aplaguetalerequiem_x64.exe",
+          "name": "a plague tale requiem/aplaguetalerequiem_x64.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "a plague tale requiem/aplaguetalerequiem_x64.exe",
+          "name": "aplaguetalerequiem/aplaguetalerequiem_x64.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -2566,6 +2566,11 @@
           "source": "discord-detectable"
         }
       ]
+    },
+    {
+      "id": "1566301837714399368",
+      "name": "Absolute Dap",
+      "executables": []
     },
     {
       "id": "1124354685646680186",
@@ -3910,12 +3915,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "aoe2de_s.exe",
+          "name": "aoe2de/aoe2de_s.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "aoe2de/aoe2de_s.exe",
+          "name": "aoe2de_s.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -3926,7 +3931,7 @@
       "name": "Age of Empires II: HD Edition",
       "executables": [
         {
-          "name": "age2_x1.exe",
+          "name": "empires2.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -3936,7 +3941,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "empires2.exe",
+          "name": "age2_x1.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -3947,12 +3952,12 @@
       "name": "Age of Empires III: Complete Collection",
       "executables": [
         {
-          "name": "age3.exe",
+          "name": "age3y.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "age3y.exe",
+          "name": "age3.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -5120,13 +5125,13 @@
       "name": "Albion Online",
       "executables": [
         {
-          "name": "albion-online.app",
-          "os": "darwin",
+          "name": "albion-online.exe",
+          "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "albion-online.exe",
-          "os": "win32",
+          "name": "albion-online.app",
+          "os": "darwin",
           "source": "discord-detectable"
         }
       ]
@@ -5516,12 +5521,12 @@
       "name": "Aliens vs. Predator",
       "executables": [
         {
-          "name": "avp_dx11.exe",
+          "name": "avp3.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "avp3.exe",
+          "name": "avp_dx11.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -6217,12 +6222,12 @@
       "name": "America's Army: Proving Grounds",
       "executables": [
         {
-          "name": "binaries/pbsvc_pg.exe",
+          "name": "aagame.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "aagame.exe",
+          "name": "binaries/pbsvc_pg.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -6507,17 +6512,17 @@
       "name": "Among Us",
       "executables": [
         {
-          "name": "among us - tou/among us.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "among us/among us.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "among us - kopie/among us.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "among us - tou/among us.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -8070,12 +8075,12 @@
       "name": "Apex Legends",
       "executables": [
         {
-          "name": "apex/r5apex.exe",
+          "name": "r5apex_dx12.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "apex legends/r5apex.exe",
+          "name": "apex/r5apex.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -8085,7 +8090,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "r5apex_dx12.exe",
+          "name": "apex legends/r5apex.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -9524,22 +9529,22 @@
       "name": "ARK: Survival Evolved",
       "executables": [
         {
-          "name": "shootergame_be.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "win64/shootergameserver.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "win64/shootergame_be.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
+          "name": "shootergame_be.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "shootergame.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "win64/shootergameserver.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -9638,12 +9643,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "pmc/datacachepreprocessor.exe",
+          "name": "baf/datacachepreprocessor.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "baf/datacachepreprocessor.exe",
+          "name": "pmc/datacachepreprocessor.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -9654,12 +9659,12 @@
       "name": "Arma 3",
       "executables": [
         {
-          "name": "arma 3/arma3_x64.exe",
+          "name": "arma3.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "arma3.exe",
+          "name": "arma 3/arma3_x64.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -9670,7 +9675,12 @@
       "name": "Arma Reforger",
       "executables": [
         {
-          "name": "arma reforger experimental/armareforger_be.exe",
+          "name": "arma reforger/armareforger_be.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "arma reforger/armareforgersteam.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -9680,12 +9690,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "arma reforger/armareforger_be.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "arma reforger/armareforgersteam.exe",
+          "name": "arma reforger experimental/armareforger_be.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -10480,12 +10485,12 @@
       "name": "Assassin's Creed III",
       "executables": [
         {
-          "name": "ac3mp.exe",
+          "name": "ac3sp.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "ac3sp.exe",
+          "name": "ac3mp.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -10734,27 +10739,7 @@
       "name": "Assetto Corsa",
       "executables": [
         {
-          "name": "assettocorsa/jsgme.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "assettocorsa/content manager.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "assettocorsa/acshowroom.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "server/acservermanager.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "assettocorsa.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -10764,7 +10749,27 @@
           "source": "discord-detectable"
         },
         {
+          "name": "assettocorsa/acshowroom.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "assettocorsa/content manager.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "editor/kseditor.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "assettocorsa/jsgme.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "assettocorsa.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -11745,12 +11750,12 @@
       "name": "Aura Kingdom",
       "executables": [
         {
-          "name": "aura kingdom/_launcher.exe",
+          "name": "aura kingdom/launcher.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "aura kingdom/launcher.exe",
+          "name": "aura kingdom/_launcher.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -12039,13 +12044,13 @@
       "name": "Avalon Lords: Dawn Rises",
       "executables": [
         {
-          "name": "avalonlords.app",
-          "os": "darwin",
+          "name": "avalonlords.exe",
+          "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "avalonlords.exe",
-          "os": "win32",
+          "name": "avalonlords.app",
+          "os": "darwin",
           "source": "discord-detectable"
         }
       ]
@@ -12193,12 +12198,12 @@
       "name": "Avowed",
       "executables": [
         {
-          "name": "wingdk/avowed-wingdk-shipping.exe",
+          "name": "win64/avowed-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "win64/avowed-win64-shipping.exe",
+          "name": "wingdk/avowed-wingdk-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -14381,12 +14386,12 @@
       "name": "Battalion Legacy",
       "executables": [
         {
-          "name": "battalion.exe",
+          "name": "win64/battalionclient-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "win64/battalionclient-win64-shipping.exe",
+          "name": "battalion.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -14885,7 +14890,7 @@
       "name": "Battlefield 6",
       "executables": [
         {
-          "name": "bf6event.exe",
+          "name": "eaanticheat.gameservicelauncer.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -14900,7 +14905,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "eaanticheat.gameservicelauncer.exe",
+          "name": "bf6event.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -14943,12 +14948,12 @@
       "name": "Battlefield: Bad Company 2",
       "executables": [
         {
-          "name": "punkbuster/pbsvc_bc2.exe",
+          "name": "bfbc2game.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "bfbc2game.exe",
+          "name": "punkbuster/pbsvc_bc2.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -15304,12 +15309,12 @@
       "name": "BeamNG.drive",
       "executables": [
         {
-          "name": "beamng.drive.exe",
+          "name": "beamng.drive.x64.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "beamng.drive.x64.exe",
+          "name": "beamng.drive.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -17941,12 +17946,12 @@
       "name": "Blade & Soul",
       "executables": [
         {
-          "name": "playbns.exe",
+          "name": "bns/bin64/client.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "bns/bin64/client.exe",
+          "name": "playbns.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -18645,12 +18650,12 @@
       "name": "Block Sport",
       "executables": [
         {
-          "name": "blocksport.exe",
+          "name": "heroblocks.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "heroblocks.exe",
+          "name": "blocksport.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -18984,12 +18989,12 @@
       "name": "Blood Strike",
       "executables": [
         {
-          "name": "microclient64/liuseloader.exe",
+          "name": "win64/bloodstrike.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "win64/bloodstrike.exe",
+          "name": "microclient64/liuseloader.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -19181,12 +19186,12 @@
       "name": "Bloodstained: Ritual of the Night",
       "executables": [
         {
-          "name": "win64/bloodstainedrotn-win64-shipping.exe",
+          "name": "bloodstainedrotn-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "bloodstainedrotn-win64-shipping.exe",
+          "name": "win64/bloodstainedrotn-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -19380,13 +19385,13 @@
       "name": "Bloons TD 6",
       "executables": [
         {
-          "name": "bloonstd6/bloonstd6.exe",
-          "os": "win32",
+          "name": "bloonstd6/bloonstd6.app",
+          "os": "darwin",
           "source": "discord-detectable"
         },
         {
-          "name": "bloonstd6/bloonstd6.app",
-          "os": "darwin",
+          "name": "bloonstd6/bloonstd6.exe",
+          "os": "win32",
           "source": "discord-detectable"
         },
         {
@@ -19406,12 +19411,12 @@
       "name": "Bloons TD Battles",
       "executables": [
         {
-          "name": "battles-win.exe",
+          "name": "bloons td battles/battles-win.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "bloons td battles/battles-win.exe",
+          "name": "battles-win.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -19501,17 +19506,17 @@
       "name": "Blue Protocol: Star Resonance",
       "executables": [
         {
+          "name": "blueprotocolstarresolw5ks/bpsr_epic.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "bpsr.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "blue protocol star resonance/blue protocol star resonance.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "blueprotocolstarresolw5ks/bpsr_epic.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -20435,12 +20440,12 @@
       "name": "Borderlands 4",
       "executables": [
         {
-          "name": "win64/borderlands4.exe",
+          "name": "oakgame/binaries/win64/borderlands4.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "oakgame/binaries/win64/borderlands4.exe",
+          "name": "win64/borderlands4.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -21220,7 +21225,7 @@
       "name": "Brawlhalla",
       "executables": [
         {
-          "name": "brawlhalla.exe",
+          "name": "brawlhalla/brawlhallagame.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -21235,7 +21240,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "brawlhalla/brawlhallagame.exe",
+          "name": "brawlhalla.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -23803,12 +23808,12 @@
       "name": "Call of Duty 2",
       "executables": [
         {
-          "name": "cod2sp_s.exe",
+          "name": "cod2mp_s.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "cod2mp_s.exe",
+          "name": "cod2sp_s.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -23824,17 +23829,17 @@
       "name": "Call of Duty 4: Modern Warfare",
       "executables": [
         {
-          "name": "call of duty 4/iw3mp.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "iw3sp.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "iw3mp.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "call of duty 4/iw3mp.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -23850,17 +23855,17 @@
       "name": "Call of Duty: Black Ops",
       "executables": [
         {
-          "name": "blackops.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "blackopsmp.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "t6sp.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "blackops.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -23909,12 +23914,12 @@
       "name": "Call of Duty: Black Ops Cold War",
       "executables": [
         {
-          "name": "call of duty black ops cold war/blackopscoldwar.exe",
+          "name": "blackopscoldwar.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "blackopscoldwar.exe",
+          "name": "call of duty black ops cold war/blackopscoldwar.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -23925,7 +23930,7 @@
       "name": "Call of Duty: Black Ops II",
       "executables": [
         {
-          "name": "t6zm.exe",
+          "name": "t6sp.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -23935,7 +23940,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "t6sp.exe",
+          "name": "t6zm.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -24010,12 +24015,12 @@
       "name": "Call of Duty: Modern Warfare 2",
       "executables": [
         {
-          "name": "iw4mp.exe",
+          "name": "iw4sp.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "iw4sp.exe",
+          "name": "iw4mp.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -24037,12 +24042,12 @@
       "name": "Call of Duty: Modern Warfare 3",
       "executables": [
         {
-          "name": "iw5sp.exe",
+          "name": "iw5mp.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "iw5mp.exe",
+          "name": "iw5sp.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -24069,12 +24074,12 @@
       "name": "Call of Duty: Modern Warfare II",
       "executables": [
         {
-          "name": "call of duty hq/cod22/cod22-cod.exe",
+          "name": "call of duty hq/sp22/sp22-cod.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "_retail_/cod22/cod22-cod.exe",
+          "name": "call of duty hq/cod22/cod22-cod.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -24084,7 +24089,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "call of duty hq/sp22/sp22-cod.exe",
+          "name": "_retail_/cod22/cod22-cod.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -24095,12 +24100,7 @@
       "name": "Call of Duty: Modern Warfare III",
       "executables": [
         {
-          "name": "sp23/sp23-cod.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "cod23/cod23-cod.exe",
+          "name": "mp23/mp23-cod.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -24110,7 +24110,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "mp23/mp23-cod.exe",
+          "name": "sp23/sp23-cod.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "cod23/cod23-cod.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -24185,12 +24190,12 @@
       "name": "Call of Duty: WWII",
       "executables": [
         {
-          "name": "call of duty wwii/s2_mp64_ship.exe",
+          "name": "call of duty wwii/s2_sp64_ship.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "call of duty wwii/s2_sp64_ship.exe",
+          "name": "call of duty wwii/s2_mp64_ship.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -25136,13 +25141,13 @@
       "name": "Card Hunter",
       "executables": [
         {
-          "name": "cardhunter.app",
-          "os": "darwin",
+          "name": "cardhunter.exe",
+          "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "cardhunter.exe",
-          "os": "win32",
+          "name": "cardhunter.app",
+          "os": "darwin",
           "source": "discord-detectable"
         }
       ]
@@ -27917,6 +27922,11 @@
       "executables": []
     },
     {
+      "id": "1566301956668923974",
+      "name": "Chess Solitairen",
+      "executables": []
+    },
+    {
       "id": "1440136717305643119",
       "name": "Chess Ultimate",
       "executables": []
@@ -29436,12 +29446,12 @@
       "name": "Clair Obscur: Expedition 33",
       "executables": [
         {
-          "name": "wingdk/sandfall-wingdk-shipping.exe",
+          "name": "win64/sandfall-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "win64/sandfall-win64-shipping.exe",
+          "name": "wingdk/sandfall-wingdk-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -30026,12 +30036,12 @@
       "name": "Clive Barker's Hellraiser: Revival",
       "executables": [
         {
-          "name": "hellraiser.exe",
+          "name": "hellraiser-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "hellraiser-win64-shipping.exe",
+          "name": "hellraiser.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -31843,12 +31853,12 @@
       "name": "Conan Exiles",
       "executables": [
         {
-          "name": "conansandbox_be.exe",
+          "name": "conansandbox.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "conansandbox.exe",
+          "name": "conansandbox_be.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -32372,12 +32382,12 @@
       "name": "Control",
       "executables": [
         {
-          "name": "control_dx11.exe",
+          "name": "control/control_dx11.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "control/control_dx11.exe",
+          "name": "control_dx11.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -33273,6 +33283,11 @@
       "name": "Counter-Strike: Global Offensive",
       "executables": [
         {
+          "name": "csgo_linux64",
+          "os": "linux",
+          "source": "discord-detectable"
+        },
+        {
           "name": "csgo.exe",
           "os": "win32",
           "source": "discord-detectable"
@@ -33280,11 +33295,6 @@
         {
           "name": "csgo_osx64.app",
           "os": "darwin",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "csgo_linux64",
-          "os": "linux",
           "source": "discord-detectable"
         }
       ]
@@ -33523,12 +33533,12 @@
       "name": "Crab Champions",
       "executables": [
         {
-          "name": "win64/crabchampions-win64-shipping.exe",
+          "name": "crabchampions-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "crabchampions-win64-shipping.exe",
+          "name": "win64/crabchampions-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -34799,12 +34809,12 @@
       "name": "Crossout",
       "executables": [
         {
-          "name": "crossout.exe",
+          "name": "crossout-d3d9.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "crossout-d3d9.exe",
+          "name": "crossout.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -36345,12 +36355,12 @@
       "name": "Cyberpunk 2077",
       "executables": [
         {
-          "name": "x64/cyberpunk2077.exe",
+          "name": "cyberpunk2077.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "cyberpunk2077.exe",
+          "name": "x64/cyberpunk2077.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -36865,12 +36875,12 @@
       "name": "Danmaku Amanojaku: Impossible Spell Card",
       "executables": [
         {
-          "name": "th143e.exe",
+          "name": "th143.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "th143.exe",
+          "name": "th143e.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -37213,12 +37223,12 @@
       "name": "DARK SOULS II: Scholar of the First Sin",
       "executables": [
         {
-          "name": "darksoulsii.exe",
+          "name": "game/x360ce_x64.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "game/x360ce_x64.exe",
+          "name": "darksoulsii.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -37261,6 +37271,11 @@
       "name": "Dark Souls: Remastered",
       "executables": [
         {
+          "name": "dark souls remastered/darksoulsitemrandomizer.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "darksoulsremastered.exe",
           "os": "win32",
           "source": "discord-detectable"
@@ -37272,11 +37287,6 @@
         },
         {
           "name": "dark souls remastered/enemyrandomizer.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "dark souls remastered/darksoulsitemrandomizer.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -37345,12 +37355,12 @@
       "name": "Darkest Dungeon",
       "executables": [
         {
-          "name": "darkest.exe",
+          "name": "_windows/darkest.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "_windows/darkest.exe",
+          "name": "darkest.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -37366,17 +37376,17 @@
       "name": "Darkest Hour: A Hearts of Iron Game",
       "executables": [
         {
-          "name": "darkest hourkr.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "darkest houren.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "darkest hour.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "darkest hourkr.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -37608,12 +37618,12 @@
       "name": "Darwin Project",
       "executables": [
         {
-          "name": "darwin-win64-shipping.exe",
+          "name": "the darwin project/darwin.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "the darwin project/darwin.exe",
+          "name": "darwin-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -38052,12 +38062,12 @@
       "name": "DayZ",
       "executables": [
         {
-          "name": "dayz_x64.exe",
+          "name": "dayz/dayzuninstaller.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "dayz/dayzuninstaller.exe",
+          "name": "dayz_x64.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -38132,12 +38142,12 @@
       "name": "DCS World",
       "executables": [
         {
-          "name": "bin/dcs.exe",
+          "name": "dcs.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "dcs.exe",
+          "name": "bin/dcs.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -38238,7 +38248,7 @@
       "name": "Dead by Daylight",
       "executables": [
         {
-          "name": "deadbydaylight-egs-shipping.exe",
+          "name": "dead by daylight/deadbydaylight.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -38248,12 +38258,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "dead by daylight/deadbydaylight.exe",
+          "name": "deadbydaylight.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "deadbydaylight.exe",
+          "name": "deadbydaylight-egs-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -38447,12 +38457,12 @@
       "name": "Dead Island: Riptide - Definitive Edition",
       "executables": [
         {
-          "name": "deadislandriptidegame.exe",
+          "name": "deadislandgame_x86_rwdi.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "deadislandgame_x86_rwdi.exe",
+          "name": "deadislandriptidegame.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -38920,12 +38930,12 @@
       "name": "Deadlock",
       "executables": [
         {
-          "name": "win64/deadlock.exe",
+          "name": "win64/project8.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "win64/project8.exe",
+          "name": "win64/deadlock.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -40215,12 +40225,12 @@
       "name": "Defiance",
       "executables": [
         {
-          "name": "defiance.exe",
+          "name": "defiance/glyphclientapp.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "defiance/glyphclientapp.exe",
+          "name": "defiance.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -40452,12 +40462,12 @@
       "name": "Delta Force",
       "executables": [
         {
-          "name": "launcher/df_launcher_global.exe",
+          "name": "launcher/df_launcher.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "deltaforceclient.exe",
+          "name": "launcher/df_launcher_global.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -40472,7 +40482,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "launcher/df_launcher.exe",
+          "name": "deltaforceclient.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -41609,12 +41619,12 @@
       "name": "Deus Ex: Human Revolution - Director's Cut",
       "executables": [
         {
-          "name": "dxhrdc.exe",
+          "name": "dxhr.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "dxhr.exe",
+          "name": "dxhrdc.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -41711,7 +41721,7 @@
       "name": "Devil May Cry 4: Special Edition",
       "executables": [
         {
-          "name": "devilmaycry4_dx10.exe",
+          "name": "devilmaycry4specialedition.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -41721,12 +41731,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "devimaycry4.exe",
+          "name": "devilmaycry4_dx10.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "devilmaycry4specialedition.exe",
+          "name": "devimaycry4.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -41895,12 +41905,12 @@
       "name": "Diablo II",
       "executables": [
         {
-          "name": "diablo ii/game.exe",
+          "name": "diablo ii.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "diablo ii.exe",
+          "name": "diablo ii/game.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -41927,12 +41937,12 @@
       "name": "Diablo III",
       "executables": [
         {
-          "name": "diablo iii64.exe",
+          "name": "diablo iii.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "diablo iii.exe",
+          "name": "diablo iii64.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -41990,7 +42000,7 @@
       "name": "Diadra Empty",
       "executables": [
         {
-          "name": "diadraempty.exe",
+          "name": "diadraempty154plus.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -42000,7 +42010,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "diadraempty154plus.exe",
+          "name": "diadraempty.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -42426,12 +42436,12 @@
       "name": "Digimon Masters Online",
       "executables": [
         {
-          "name": "digimon masters online - steam/gdmo.exe",
+          "name": "dmlauncher.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "dmlauncher.exe",
+          "name": "digimon masters online - steam/gdmo.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -44643,12 +44653,12 @@
       "name": "Don't Starve",
       "executables": [
         {
-          "name": "dontstarve_steam.exe",
+          "name": "dontstarve.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "dontstarve.exe",
+          "name": "dontstarve_steam.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -44659,12 +44669,12 @@
       "name": "Don't Starve Together",
       "executables": [
         {
-          "name": "don't starve together/bin/dontstarve.exe",
+          "name": "don't starve together/bin/dontstarve_steam.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "don't starve together/bin/dontstarve_steam.exe",
+          "name": "don't starve together/bin/dontstarve.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -45000,12 +45010,12 @@
       "name": "Doomsday: Last Survivors",
       "executables": [
         {
-          "name": "doomsdaylastsurvivors/doomsday.exe",
+          "name": "doomsday last survivors/doomsday.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "doomsday last survivors/doomsday.exe",
+          "name": "doomsdaylastsurvivors/doomsday.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -45149,13 +45159,13 @@
           "source": "discord-detectable"
         },
         {
-          "name": "osx64/dota2.app",
-          "os": "darwin",
+          "name": "dota2.exe",
+          "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "dota2.exe",
-          "os": "win32",
+          "name": "osx64/dota2.app",
+          "os": "darwin",
           "source": "discord-detectable"
         }
       ]
@@ -45165,12 +45175,12 @@
       "name": "Dota Underlords",
       "executables": [
         {
-          "name": "win64/underlords.exe",
+          "name": "underlords.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "underlords.exe",
+          "name": "win64/underlords.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -45571,22 +45581,22 @@
       "name": "Dragon Age: Origins - Ultimate Edition",
       "executables": [
         {
-          "name": "bin_ship/daoriginsconfig.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "bin_ship/daupdater.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "daorigins.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
+          "name": "bin_ship/daoriginsconfig.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "redist/dauservicesetup_steam.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "bin_ship/daupdater.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -45630,12 +45640,12 @@
       "name": "Dragon Ball FighterZ",
       "executables": [
         {
-          "name": "dbfighterz.exe",
+          "name": "win64/red-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "win64/red-win64-shipping.exe",
+          "name": "dbfighterz.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -45711,6 +45721,16 @@
       "name": "Dragon Ball: Xenoverse 2",
       "executables": [
         {
+          "name": "dbxv2.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "xv2ins/xv2ins.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "db xenoverse 2/start.exe",
           "os": "win32",
           "source": "discord-detectable"
@@ -45721,22 +45741,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "xv2ins/xv2ins.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "db xenoverse 2/xv2characreat.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "db xenoverse 2/xv2skilcreat.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "dbxv2.exe",
+          "name": "db xenoverse 2/xv2characreat.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -47327,12 +47337,12 @@
       "name": "DropZone",
       "executables": [
         {
-          "name": "dropzone/bin/juggernautclient_x32_rel.exe",
+          "name": "dropzonesteamclient_x32_rel.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "dropzonesteamclient_x32_rel.exe",
+          "name": "dropzone/bin/juggernautclient_x32_rel.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -47919,17 +47929,17 @@
       "name": "Dune: Awakening",
       "executables": [
         {
-          "name": "win64/dunesandbox_be.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "duneawakening/dunesandbox.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "win64/dunesandbox-win64-shipping.exe",
+          "name": "launcher/funcomlauncher.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "win64/dunesandbox_be.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -47939,7 +47949,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "launcher/funcomlauncher.exe",
+          "name": "win64/dunesandbox-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -48065,7 +48075,7 @@
       "name": "Dungeon Defenders II",
       "executables": [
         {
-          "name": "dungeon defenders 2/dundef2/binaries/win64/dundefgame.exe",
+          "name": "dungeon defenders 2/dundef2/binaries/win32/dundefgame.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -48075,12 +48085,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "dungeon defenders 2/dundef2/binaries/win64/dungeondefenders.exe",
+          "name": "dungeon defenders 2/dundef2/binaries/win64/dundefgame.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "dungeon defenders 2/dundef2/binaries/win32/dundefgame.exe",
+          "name": "dungeon defenders 2/dundef2/binaries/win64/dungeondefenders.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -48520,12 +48530,12 @@
       "name": "Dungeons & Dragons Online",
       "executables": [
         {
-          "name": "dndclient64.exe",
+          "name": "dndclient.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "dndclient.exe",
+          "name": "dndclient64.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -49294,17 +49304,17 @@
       "name": "EA Sports FC 26",
       "executables": [
         {
-          "name": "ea sports fc 26/fc26.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "ea sports fc 26/fc26_showcase.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "ea sports fc 26/fc26_trial.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "ea sports fc 26/fc26.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -50614,12 +50624,12 @@
       "name": "Elite: Dangerous",
       "executables": [
         {
-          "name": "elitedangerous64.exe",
+          "name": "elitedangerous32.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "elitedangerous32.exe",
+          "name": "elitedangerous64.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -53033,12 +53043,12 @@
       "name": "Euro Truck Simulator 2",
       "executables": [
         {
-          "name": "win_x64/eurotrucks2.exe",
+          "name": "eurotrucks2.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "eurotrucks2.exe",
+          "name": "win_x64/eurotrucks2.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -53155,12 +53165,12 @@
       "name": "EVE Online",
       "executables": [
         {
-          "name": "exefile.exe",
+          "name": "evelauncher.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "evelauncher.exe",
+          "name": "exefile.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -53360,13 +53370,13 @@
       "name": "Everlasting Summer",
       "executables": [
         {
-          "name": "everlasting summer.exe",
-          "os": "win32",
+          "name": "everlasting summer.app",
+          "os": "darwin",
           "source": "discord-detectable"
         },
         {
-          "name": "everlasting summer.app",
-          "os": "darwin",
+          "name": "everlasting summer.exe",
+          "os": "win32",
           "source": "discord-detectable"
         }
       ]
@@ -54285,17 +54295,17 @@
       "name": "F.E.A.R.",
       "executables": [
         {
+          "name": "fear.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "fearxp2/fearxp2.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "fearxp.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "fear.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -54420,12 +54430,12 @@
       "name": "F1 2019",
       "executables": [
         {
-          "name": "f1 2019/f1_2019.exe",
+          "name": "f1 2019/f1_2019_dx12.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "f1 2019/f1_2019_dx12.exe",
+          "name": "f1 2019/f1_2019.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -54436,12 +54446,12 @@
       "name": "F1 2020",
       "executables": [
         {
-          "name": "f1 2020/f1_2020.exe",
+          "name": "f1 2020/f1_2020_dx12.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "f1 2020/f1_2020_dx12.exe",
+          "name": "f1 2020/f1_2020.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -54720,13 +54730,13 @@
           "source": "discord-detectable"
         },
         {
-          "name": "factorio.app",
-          "os": "darwin",
+          "name": "factorio.exe",
+          "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "factorio.exe",
-          "os": "win32",
+          "name": "factorio.app",
+          "os": "darwin",
           "source": "discord-detectable"
         }
       ]
@@ -55167,12 +55177,12 @@
       "name": "Fallout 2",
       "executables": [
         {
-          "name": "fallout2hr.exe",
+          "name": "fallout2.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "fallout2.exe",
+          "name": "fallout2hr.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -55188,12 +55198,12 @@
       "name": "Fallout 3: Game of the Year Edition",
       "executables": [
         {
-          "name": "fallout 3 goty/fallout3 - garden of eden creation kit.exe",
+          "name": "fallout 3 goty/games for windows live disabler.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "fallout 3 goty/games for windows live disabler.exe",
+          "name": "fallout 3 goty/fallout3 - garden of eden creation kit.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -55203,12 +55213,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "fallout 3 goty/4gb_patch.exe",
+          "name": "fallout3.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "fallout3.exe",
+          "name": "fallout 3 goty/4gb_patch.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -57963,12 +57973,12 @@
       "name": "FINAL FANTASY X/X-2 HD Remaster",
       "executables": [
         {
-          "name": "final fantasy ffx&ffx-2 hd remaster/ffx.exe",
+          "name": "ffx.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "ffx.exe",
+          "name": "final fantasy ffx&ffx-2 hd remaster/ffx.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -58023,12 +58033,12 @@
       "name": "FINAL FANTASY XIII-2",
       "executables": [
         {
-          "name": "ffxiii2img.exe",
+          "name": "ffxiii2.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "ffxiii2.exe",
+          "name": "ffxiii2img.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -58044,11 +58054,6 @@
           "source": "discord-detectable"
         },
         {
-          "name": "ffxiv.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "boot/ffxivboot.exe",
           "os": "win32",
           "source": "discord-detectable"
@@ -58056,6 +58061,11 @@
         {
           "name": "final fantasy xiv.app",
           "os": "darwin",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "ffxiv.exe",
+          "os": "win32",
           "source": "discord-detectable"
         }
       ]
@@ -58097,12 +58107,12 @@
       "name": "FINAL FANTASY XVI",
       "executables": [
         {
-          "name": "finalfantasyxvi/ffxvi.exe",
+          "name": "final fantasy xvi demo/ffxvi_demo.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "final fantasy xvi demo/ffxvi_demo.exe",
+          "name": "finalfantasyxvi/ffxvi.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -59087,12 +59097,12 @@
       "name": "Five Nights at Freddy's 4",
       "executables": [
         {
-          "name": "fivenightsatfreddys4/halloweenedition.exe",
+          "name": "fivenightsatfreddys4/fivenightsatfreddys4.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "fivenightsatfreddys4/fivenightsatfreddys4.exe",
+          "name": "fivenightsatfreddys4/halloweenedition.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -59302,12 +59312,12 @@
       "name": "Flash Flash Revolution",
       "executables": [
         {
-          "name": "ffr.exe",
+          "name": "r3air.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "r3air.exe",
+          "name": "ffr.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -60598,12 +60608,12 @@
       "name": "For Honor",
       "executables": [
         {
-          "name": "for honor/forhonor.exe",
+          "name": "forhonor.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "forhonor.exe",
+          "name": "for honor/forhonor.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -61169,13 +61179,13 @@
       "name": "Fortnite",
       "executables": [
         {
-          "name": "fortniteclient-mac-shipping.app",
-          "os": "darwin",
+          "name": "fortniteclient-win64-shipping.exe",
+          "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "fortniteclient-win64-shipping.exe",
-          "os": "win32",
+          "name": "fortniteclient-mac-shipping.app",
+          "os": "darwin",
           "source": "discord-detectable"
         },
         {
@@ -61664,12 +61674,12 @@
       "name": "Fractured Space",
       "executables": [
         {
-          "name": "fractured space.exe",
+          "name": "spacegame-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "spacegame-win64-shipping.exe",
+          "name": "fractured space.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -61685,12 +61695,12 @@
       "name": "FragPunk",
       "executables": [
         {
-          "name": "fragpunk.exe",
+          "name": "win64/fragpunk.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "win64/fragpunk.exe",
+          "name": "fragpunk.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -62485,12 +62495,12 @@
       "name": "Frontier",
       "executables": [
         {
-          "name": "frontier/client.jar",
+          "name": "frontier.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "frontier.exe",
+          "name": "frontier/client.jar",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -64403,22 +64413,12 @@
       "name": "Garry's Mod",
       "executables": [
         {
-          "name": "garrysmod/hl2.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "hl2.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": ">hl2_osx",
-          "os": "darwin",
-          "source": "discord-detectable"
-        },
-        {
           "name": "win64/gmod.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "garrysmod/hl2.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -64428,8 +64428,18 @@
           "source": "discord-detectable"
         },
         {
+          "name": "hl2.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": ">hl2.exe",
           "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": ">hl2_osx",
+          "os": "darwin",
           "source": "discord-detectable"
         }
       ]
@@ -64747,12 +64757,12 @@
       "name": "Gears 5",
       "executables": [
         {
-          "name": "steam/gears5.exe",
+          "name": "gears5.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "gears5.exe",
+          "name": "steam/gears5.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -65130,12 +65140,12 @@
       "name": "Geometry Dash",
       "executables": [
         {
-          "name": "geometry dash/geometrydash.exe",
+          "name": "geometrydash.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "geometrydash.exe",
+          "name": "geometry dash/geometrydash.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -65207,6 +65217,11 @@
     {
       "id": "1445127089270554764",
       "name": "Geometry Wars: Retro Evolved 2",
+      "executables": []
+    },
+    {
+      "id": "1566301788804616212",
+      "name": "Geoplanetical",
       "executables": []
     },
     {
@@ -67936,12 +67951,12 @@
       "name": "Grand Chase Classic",
       "executables": [
         {
-          "name": "grandchase.exe",
+          "name": "grandchase/grandchase.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "grandchase/grandchase.exe",
+          "name": "grandchase.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -68040,12 +68055,12 @@
       "name": "Grand Theft Auto V Enhanced",
       "executables": [
         {
-          "name": "grand theft auto v enhanced/gta5_enhanced.exe",
+          "name": "grand theft auto v enhanced/gta5_enhanced_be.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "grand theft auto v enhanced/gta5_enhanced_be.exe",
+          "name": "grand theft auto v enhanced/gta5_enhanced.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -68066,7 +68081,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "grand theft auto v/ragepluginhook.exe",
+          "name": "grand theft auto v/fivem.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "grand theft auto v/gta5_be.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -68076,22 +68096,17 @@
           "source": "discord-detectable"
         },
         {
-          "name": "grand theft auto v/fivem.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "grand theft auto v/gta5.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "installers/social-club-setup.exe",
+          "name": "grand theft auto v/ragepluginhook.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "grand theft auto v/gta5_be.exe",
+          "name": "installers/social-club-setup.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -68118,12 +68133,12 @@
       "name": "Grand Theft Auto: San Andreas",
       "executables": [
         {
-          "name": "gta_sa.exe",
+          "name": "gta-sa.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "gta-sa.exe",
+          "name": "gta_sa.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -68150,12 +68165,12 @@
       "name": "Grand Theft Auto: Vice City",
       "executables": [
         {
-          "name": "gta-vc.exe",
+          "name": "grand theft auto vice city/testapp.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "grand theft auto vice city/testapp.exe",
+          "name": "gta-vc.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -69216,12 +69231,12 @@
       "name": "Grounded 2",
       "executables": [
         {
-          "name": "wingrts/grounded2-wingrts-shipping.exe",
+          "name": "wingdk/grounded2-wingdk-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "wingdk/grounded2-wingdk-shipping.exe",
+          "name": "wingrts/grounded2-wingrts-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -69562,12 +69577,7 @@
       "name": "Guild Wars 2",
       "executables": [
         {
-          "name": "guild wars 2 64-bit.app",
-          "os": "darwin",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "gw2.exe",
+          "name": "gw2-64.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -69577,8 +69587,13 @@
           "source": "discord-detectable"
         },
         {
-          "name": "gw2-64.exe",
+          "name": "gw2.exe",
           "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "guild wars 2 64-bit.app",
+          "os": "darwin",
           "source": "discord-detectable"
         }
       ]
@@ -69674,12 +69689,12 @@
       "name": "Guilty Gear Xrd: Revelator",
       "executables": [
         {
-          "name": "guilty gear xrd -revelator-/binaries/win32/bootggxrd.exe",
+          "name": "guiltygearxrd.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "guiltygearxrd.exe",
+          "name": "guilty gear xrd -revelator-/binaries/win32/bootggxrd.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -70105,13 +70120,13 @@
       "name": "Guns of Icarus Online",
       "executables": [
         {
-          "name": "gunsoficarusonline.exe",
-          "os": "win32",
+          "name": "gunsoficarusonline.app",
+          "os": "darwin",
           "source": "discord-detectable"
         },
         {
-          "name": "gunsoficarusonline.app",
-          "os": "darwin",
+          "name": "gunsoficarusonline.exe",
+          "os": "win32",
           "source": "discord-detectable"
         }
       ]
@@ -70404,12 +70419,12 @@
       "name": "H1Z1",
       "executables": [
         {
-          "name": "h1z1/h1z1.exe",
+          "name": "h1z1/h1z1_be.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "h1z1/h1z1_be.exe",
+          "name": "h1z1/h1z1.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -70788,13 +70803,13 @@
           "source": "discord-detectable"
         },
         {
-          "name": ">hl2_osx",
-          "os": "darwin",
+          "name": ">hl2.exe",
+          "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": ">hl2.exe",
-          "os": "win32",
+          "name": ">hl2_osx",
+          "os": "darwin",
           "source": "discord-detectable"
         }
       ]
@@ -71495,12 +71510,12 @@
       "name": "HANS",
       "executables": [
         {
-          "name": "hans/hans.exe",
+          "name": "win64/hans-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "win64/hans-win64-shipping.exe",
+          "name": "hans/hans.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -72292,12 +72307,12 @@
       "name": "Hawken",
       "executables": [
         {
-          "name": "hawkengame-win32-shipping.exe",
+          "name": "hawkengame-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "hawkengame-win64-shipping.exe",
+          "name": "hawkengame-win32-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -72636,12 +72651,12 @@
       "name": "Hearts of Iron III",
       "executables": [
         {
-          "name": "hoi3.exe",
+          "name": "hoi3game.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "hoi3game.exe",
+          "name": "hoi3_tfh.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -72651,7 +72666,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "hoi3_tfh.exe",
+          "name": "hoi3.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -72662,7 +72677,7 @@
       "name": "Hearts of Iron IV",
       "executables": [
         {
-          "name": "hoi4.exe",
+          "name": "hearts of iron iv/hoi4.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -72672,7 +72687,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "hearts of iron iv/hoi4.exe",
+          "name": "hoi4.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -73049,12 +73064,12 @@
       "name": "Hell Let Loose",
       "executables": [
         {
-          "name": "win64/hllepicgamesstore-win64-shipping.exe",
+          "name": "win64/hll-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "win64/hll-win64-shipping.exe",
+          "name": "win64/hllepicgamesstore-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -74196,17 +74211,17 @@
       "name": "Heroes & Generals",
       "executables": [
         {
-          "name": "heroes & generals/hng_be.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "hng.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "heroesandgeneralsdesktop.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "heroes & generals/hng_be.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -74349,6 +74364,11 @@
           "source": "discord-detectable"
         },
         {
+          "name": "heroes.app",
+          "os": "darwin",
+          "source": "discord-detectable"
+        },
+        {
           "name": "heroesofthestorm.exe",
           "os": "win32",
           "source": "discord-detectable"
@@ -74356,11 +74376,6 @@
         {
           "name": "heroes of the storm.exe",
           "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "heroes.app",
-          "os": "darwin",
           "source": "discord-detectable"
         }
       ]
@@ -76048,6 +76063,11 @@
       "executables": []
     },
     {
+      "id": "1566301894853402816",
+      "name": "Home Reset: Organizing Simulator",
+      "executables": []
+    },
+    {
       "id": "1203263649020514315",
       "name": "Home Safety Hotline",
       "executables": [
@@ -76177,12 +76197,12 @@
       "name": "Homesick",
       "executables": [
         {
-          "name": "homesick/binaries/win64/udk.exe",
+          "name": "homesick/binaries/win32/udk.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "homesick/binaries/win32/udk.exe",
+          "name": "homesick/binaries/win64/udk.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -77820,12 +77840,12 @@
       "name": "Hurtworld",
       "executables": [
         {
-          "name": "hurtworldclient.exe",
+          "name": "hurtworld.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "hurtworld.exe",
+          "name": "hurtworldclient.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -78253,12 +78273,12 @@
       "name": "Hytale",
       "executables": [
         {
-          "name": "hytaleclient.exe",
+          "name": "hytale-launcher.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "hytale-launcher.exe",
+          "name": "hytaleclient.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -81087,12 +81107,12 @@
       "name": "Injustice 2",
       "executables": [
         {
-          "name": "retail/injustice2.exe",
+          "name": "injustice2.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "injustice2.exe",
+          "name": "retail/injustice2.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -81409,17 +81429,17 @@
       "name": "Insurgency: Sandstorm",
       "executables": [
         {
-          "name": "sandstorm/insurgencyeac.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "sandstorm_beta/insurgencyeac.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "win64/insurgencyclient-win64-test.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "sandstorm/insurgencyeac.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -81966,12 +81986,12 @@
       "name": "iRacing",
       "executables": [
         {
-          "name": "iracingsim64.exe",
+          "name": "iracingsim.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "iracingsim.exe",
+          "name": "iracingsim64.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -84517,12 +84537,12 @@
       "name": "Just Survive",
       "executables": [
         {
-          "name": "just survive/h1z1.exe",
+          "name": "just survive/h1z1_be.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "just survive/h1z1_be.exe",
+          "name": "just survive/h1z1.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -86203,6 +86223,11 @@
       "executables": []
     },
     {
+      "id": "1566301947932311563",
+      "name": "Kimodameshi Online",
+      "executables": []
+    },
+    {
       "id": "1509034565329489980",
       "name": "Kin and Conquest",
       "executables": []
@@ -86619,7 +86644,7 @@
       "name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
       "executables": [
         {
-          "name": "kingdom hearts -hd 1.5+2.5 remix-/kingdom hearts ii final mix.exe",
+          "name": "kingdom hearts -hd 1.5+2.5 remix-/kingdom hearts re_chain of memories.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -86629,17 +86654,17 @@
           "source": "discord-detectable"
         },
         {
-          "name": "kingdom hearts -hd 1.5+2.5 remix-/kingdom hearts re_chain of memories.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "kingdom hearts -hd 1.5+2.5 remix-/waittitleproject.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "kingdom hearts -hd 1.5+2.5 remix-/kingdom hearts hd 1.5+2.5 launcher.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "kingdom hearts -hd 1.5+2.5 remix-/kingdom hearts ii final mix.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "kingdom hearts -hd 1.5+2.5 remix-/kingdom hearts birth by sleep final mix.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -86649,7 +86674,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "kingdom hearts -hd 1.5+2.5 remix-/kingdom hearts birth by sleep final mix.exe",
+          "name": "kingdom hearts -hd 1.5+2.5 remix-/waittitleproject.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -87553,12 +87578,12 @@
       "name": "Knockout City",
       "executables": [
         {
-          "name": "knockoutcity/knockoutcity.exe",
+          "name": "knockout city/knockoutcity.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "knockout city/knockoutcity.exe",
+          "name": "knockoutcity/knockoutcity.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -87754,6 +87779,11 @@
           "source": "discord-detectable"
         }
       ]
+    },
+    {
+      "id": "1566301712418078761",
+      "name": "Kopernicus: Incremental Suffering",
+      "executables": []
     },
     {
       "id": "1526801895891402833",
@@ -89295,22 +89325,7 @@
       "name": "League of Legends",
       "executables": [
         {
-          "name": "leagueclientux.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "league of legends.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "league of legends.app",
-          "os": "darwin",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "lollauncher.app",
+          "name": "leagueoflegends.app",
           "os": "darwin",
           "source": "discord-detectable"
         },
@@ -89320,12 +89335,27 @@
           "source": "discord-detectable"
         },
         {
+          "name": "league of legends.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "leagueclientux.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "garenalolth/gamedata/apps/lolth/lolex.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "leagueoflegends.app",
+          "name": "lollauncher.app",
+          "os": "darwin",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "league of legends.app",
           "os": "darwin",
           "source": "discord-detectable"
         }
@@ -89508,7 +89538,12 @@
       "name": "Left 4 Dead 2",
       "executables": [
         {
-          "name": "bin/l4d2_workshop_manager.exe",
+          "name": "left4dead2.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "left 4 dead 2/left4dead2.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -89518,12 +89553,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "left4dead2.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "left 4 dead 2/left4dead2.exe",
+          "name": "bin/l4d2_workshop_manager.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -90584,12 +90614,12 @@
       "name": "Lethal League Blaze",
       "executables": [
         {
-          "name": "llblaze/llblaze.exe",
+          "name": "llblaze.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "llblaze.exe",
+          "name": "llblaze/llblaze.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -91422,12 +91452,12 @@
       "name": "Lineage II",
       "executables": [
         {
-          "name": "lineageii.exe",
+          "name": "l2.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "l2.exe",
+          "name": "lineageii.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -92823,12 +92853,12 @@
       "name": "Lords of the Fallen",
       "executables": [
         {
-          "name": "lords of the fallen/lotf2.exe",
+          "name": "lordsofthefallen.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "lordsofthefallen.exe",
+          "name": "lords of the fallen/lotf2.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -94620,6 +94650,11 @@
       "name": "Mabinogi",
       "executables": [
         {
+          "name": "mabinogi/nxsteam.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "mabinogi/client.exe",
           "os": "win32",
           "source": "discord-detectable"
@@ -94631,11 +94666,6 @@
         },
         {
           "name": "mabinogi.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "mabinogi/nxsteam.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -95173,6 +95203,11 @@
       ]
     },
     {
+      "id": "1566301870300069919",
+      "name": "MAFIA HOTEL",
+      "executables": []
+    },
+    {
       "id": "425443244285886494",
       "name": "Mafia II",
       "executables": [
@@ -95521,13 +95556,13 @@
       "name": "Magic: The Gathering Arena",
       "executables": [
         {
-          "name": "mtga.exe",
-          "os": "win32",
+          "name": "mtga.app",
+          "os": "darwin",
           "source": "discord-detectable"
         },
         {
-          "name": "mtga.app",
-          "os": "darwin",
+          "name": "mtga.exe",
+          "os": "win32",
           "source": "discord-detectable"
         }
       ]
@@ -96518,12 +96553,12 @@
       "name": "March of Giants",
       "executables": [
         {
-          "name": "thelineclient-win64-shipping.exe",
+          "name": "thelineclient.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "thelineclient.exe",
+          "name": "thelineclient-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -96846,12 +96881,12 @@
       "name": "Marvel Heroes",
       "executables": [
         {
-          "name": "marvelheroes2015.exe",
+          "name": "marvelheroesomega.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "marvelheroesomega.exe",
+          "name": "marvelheroes2015.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -96862,12 +96897,12 @@
       "name": "Marvel Heroes 2016",
       "executables": [
         {
-          "name": "marvelheroes2016.exe",
+          "name": "marvelheroesomega.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "marvelheroesomega.exe",
+          "name": "marvelheroes2016.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -96904,11 +96939,6 @@
       "name": "Marvel Rivals",
       "executables": [
         {
-          "name": "win64/marvel-win64-shipping.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "win64/marvel.exe",
           "os": "win32",
           "source": "discord-detectable"
@@ -96920,6 +96950,11 @@
         },
         {
           "name": "marvelrivals/marvelrivals_launcher.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "win64/marvel-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -97179,12 +97214,12 @@
       "name": "Mass Effect 2",
       "executables": [
         {
-          "name": "mass effect 2/binaries/me2game.exe",
+          "name": "masseffect2.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "masseffect2.exe",
+          "name": "mass effect 2/binaries/me2game.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -98022,12 +98057,12 @@
       "name": "MechWarrior: Living Legends",
       "executables": [
         {
-          "name": "crysis wars/bin64/crysis.exe",
+          "name": "mwlllauncher.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "mwlllauncher.exe",
+          "name": "crysis wars/bin64/crysis.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -98880,7 +98915,7 @@
       "name": "Men of War: Assault Squad",
       "executables": [
         {
-          "name": "mow_assault_squad_ed.exe",
+          "name": "mow_assualt_squad.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -98890,7 +98925,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "mow_assualt_squad.exe",
+          "name": "mow_assault_squad_ed.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -98901,12 +98936,12 @@
       "name": "Men of War: Assault Squad 2",
       "executables": [
         {
-          "name": "mowas2.exe",
+          "name": "mowas_2.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "mowas_2.exe",
+          "name": "mowas2.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -99779,12 +99814,12 @@
       "name": "Metro Exodus",
       "executables": [
         {
-          "name": "meenhancededition/metroexodus.exe",
+          "name": "metro exodus enhanced edition/metroexodus.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "metro exodus enhanced edition/metroexodus.exe",
+          "name": "meenhancededition/metroexodus.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -101005,8 +101040,8 @@
       "name": "Minecraft",
       "executables": [
         {
-          "name": "minecraft.windows.exe",
-          "os": "win32",
+          "name": ">java",
+          "os": "darwin",
           "source": "discord-detectable"
         },
         {
@@ -101015,12 +101050,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": ">java",
-          "os": "darwin",
+          "name": "minecraft/runtime/jre-x64/1.8.0_25/bin/javaw.exe",
+          "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "minecraft/runtime/jre-x64/1.8.0_25/bin/javaw.exe",
+          "name": "minecraft.windows.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -101589,6 +101624,11 @@
           "source": "discord-detectable"
         }
       ]
+    },
+    {
+      "id": "1566301912607891597",
+      "name": "miniopolis",
+      "executables": []
     },
     {
       "id": "1245059067014156309",
@@ -103998,12 +104038,12 @@
       "name": "MORDHAU",
       "executables": [
         {
-          "name": "win64/mordhau-win64-shipping.exe",
+          "name": "mordhau-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "mordhau-win64-shipping.exe",
+          "name": "win64/mordhau-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -104648,12 +104688,12 @@
       "name": "Mount & Blade II: Bannerlord",
       "executables": [
         {
-          "name": "win64_shipping_client/taleworlds.mountandblade.launcher.exe",
+          "name": "win64_shipping_client/bannerlord.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "win64_shipping_client/bannerlord.exe",
+          "name": "win64_shipping_client/taleworlds.mountandblade.launcher.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -104664,12 +104704,12 @@
       "name": "Mount & Blade: Warband",
       "executables": [
         {
-          "name": "mountblade warband/binkplay.exe",
+          "name": "mountblade warband/battlesizer.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "mountblade warband/battlesizer.exe",
+          "name": "mountblade warband/binkplay.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -104679,12 +104719,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "mountblade warband/mb_warband_old.exe",
+          "name": "mountblade warband/mb_warband.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "mountblade warband/mb_warband.exe",
+          "name": "mountblade warband/mb_warband_old.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -104797,6 +104837,11 @@
       "name": "Move or Die",
       "executables": [
         {
+          "name": "move or die/love/win/love.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "move or die/love/linux32/love",
           "os": "linux",
           "source": "discord-detectable"
@@ -104804,11 +104849,6 @@
         {
           "name": "move or die/love/osx32/love.app/contents/macos/love",
           "os": "darwin",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "move or die/love/win/love.exe",
-          "os": "win32",
           "source": "discord-detectable"
         }
       ]
@@ -107272,12 +107312,12 @@
       "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst",
       "executables": [
         {
-          "name": "nsuns3.exe",
+          "name": "ns3fb.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "ns3fb.exe",
+          "name": "nsuns3.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -108009,12 +108049,12 @@
       "name": "Need for Speed: Hot Pursuit",
       "executables": [
         {
-          "name": "need for speed hot pursuit/configtool.exe",
+          "name": "nfs11.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "nfs11.exe",
+          "name": "need for speed hot pursuit/configtool.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -108030,12 +108070,12 @@
       "name": "Need for Speed: Most Wanted",
       "executables": [
         {
-          "name": "nfs13.exe",
+          "name": "need for speed - most wanted/speed.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "need for speed - most wanted/speed.exe",
+          "name": "nfs13.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -108254,12 +108294,12 @@
       "name": "Nekome: Nazi Hunter",
       "executables": [
         {
-          "name": "nekomedemo.exe",
+          "name": "nekomesteamdemo-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "nekomesteamdemo-win64-shipping.exe",
+          "name": "nekomedemo.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -108797,6 +108837,11 @@
       ]
     },
     {
+      "id": "1566301814545060002",
+      "name": "Network & Cyber Security Simulator",
+      "executables": []
+    },
+    {
       "id": "1442732799638372423",
       "name": "NeuroBloxs",
       "executables": []
@@ -108943,12 +108988,12 @@
       "name": "Neverwinter",
       "executables": [
         {
-          "name": "neverwinter.exe",
+          "name": "neverwinter/live/gameclient.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "neverwinter/live/gameclient.exe",
+          "name": "neverwinter.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -109092,17 +109137,17 @@
           "source": "discord-detectable"
         },
         {
+          "name": "bin64/newworld.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "new world/newworldlauncher.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "newworldlauncher.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "bin64/newworld.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -109523,12 +109568,12 @@
       "name": "NieR: Automata",
       "executables": [
         {
-          "name": "nierautomata.exe",
+          "name": "nierautomata/naiom-gui.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "nierautomata/naiom-gui.exe",
+          "name": "nierautomata.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -109687,12 +109732,12 @@
       "name": "Night Run",
       "executables": [
         {
-          "name": "night run/nightrun.exe",
+          "name": "nightrun3d2gw/nightrun.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "nightrun3d2gw/nightrun.exe",
+          "name": "night run/nightrun.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -112500,6 +112545,11 @@
       "executables": []
     },
     {
+      "id": "1566301681283502143",
+      "name": "Office Party",
+      "executables": []
+    },
+    {
       "id": "1522089649911234651",
       "name": "Office Simulator",
       "executables": []
@@ -112885,12 +112935,12 @@
       "name": "Old School RuneScape",
       "executables": [
         {
-          "name": "win64/osclient.exe",
+          "name": "old school runescape/client/osclient.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "old school runescape/client/osclient.exe",
+          "name": "win64/osclient.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -113048,12 +113098,12 @@
       "name": "Omega Strikers",
       "executables": [
         {
-          "name": "win64/prometheus-win64-shipping.exe",
+          "name": "prometheus/prometheus.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "prometheus/prometheus.exe",
+          "name": "win64/prometheus-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -113787,12 +113837,12 @@
       "name": "Onimusha: Way of the Sword",
       "executables": [
         {
-          "name": "onimushawots.exe",
+          "name": "onimushawots_demo.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "onimushawots_demo.exe",
+          "name": "onimushawots.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -114424,12 +114474,12 @@
       "name": "Orcs Must Die!",
       "executables": [
         {
-          "name": "spitfiredashboard.exe",
+          "name": "win64/spitfiregame.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "win64/spitfiregame.exe",
+          "name": "spitfiredashboard.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -114587,12 +114637,12 @@
       "name": "Ori and the Blind Forest: Definitive Edition",
       "executables": [
         {
-          "name": "oride.exe",
+          "name": "ori.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "ori.exe",
+          "name": "oride.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -114807,13 +114857,13 @@
       "name": "osu!",
       "executables": [
         {
-          "name": "osu!.app",
-          "os": "darwin",
+          "name": "osu!.exe",
+          "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "osu!.exe",
-          "os": "win32",
+          "name": "osu!.app",
+          "os": "darwin",
           "source": "discord-detectable"
         }
       ]
@@ -115373,13 +115423,13 @@
       "name": "Outlast",
       "executables": [
         {
-          "name": "outlast.app",
-          "os": "darwin",
+          "name": "olgame.exe",
+          "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "olgame.exe",
-          "os": "win32",
+          "name": "outlast.app",
+          "os": "darwin",
           "source": "discord-detectable"
         }
       ]
@@ -116484,12 +116534,12 @@
       "name": "Paladins",
       "executables": [
         {
-          "name": "paladinseac.exe",
+          "name": "paladins.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "paladins.exe",
+          "name": "paladinseac.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -116563,12 +116613,12 @@
       "name": "Palworld",
       "executables": [
         {
-          "name": "win64/palworld-win64-shipping.exe",
+          "name": "wingdk/palworld-wingdk-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "wingdk/palworld-wingdk-shipping.exe",
+          "name": "win64/palworld-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -117677,27 +117727,7 @@
       "name": "Path of Exile",
       "executables": [
         {
-          "name": "path of exile taiwan/pathofexile.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "path of exile/pathofexile_x64steam.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "pathofexile/pathofexileegs.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "流亡黯道/pathofexilesteam.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "poe/pathofexile.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -117712,7 +117742,27 @@
           "source": "discord-detectable"
         },
         {
+          "name": "path of exile taiwan/pathofexile.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "pathofexile/pathofexileegs.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "path of exile/pathofexile_x64.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "poe/pathofexile.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "path of exile/pathofexile_x64steam.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -117723,27 +117773,7 @@
       "name": "Path of Exile 2",
       "executables": [
         {
-          "name": "path of exile 2/pathofexile_x64steam.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "path of exile 2/pathofexile_x64.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "path of exile 2 taiwan/pathofexile.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "path of exile 2/pathofexilesteam.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "pathofexile2/pathofexileegs.exe",
+          "name": "path of exile2/pathofexile_kg.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -117758,12 +117788,32 @@
           "source": "discord-detectable"
         },
         {
+          "name": "path of exile 2 taiwan/pathofexile.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "path of exile 2/pathofexile_x64steam.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "path of exile 2/pathofexilesteam.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "path of exile 2 - poe2_production/pathofexile.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "path of exile2/pathofexile_kg.exe",
+          "name": "pathofexile2/pathofexileegs.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "path of exile 2/pathofexile_x64.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -118148,12 +118198,12 @@
       "name": "PAYDAY 2",
       "executables": [
         {
-          "name": "payday 2/payday2_win32_release_vr.exe",
+          "name": "payday2_win32_release.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "payday2_win32_release.exe",
+          "name": "payday 2/payday2_win32_release_vr.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -118252,12 +118302,12 @@
       "name": "PCSX2",
       "executables": [
         {
-          "name": "pcsx2.exe",
+          "name": "pcsx2-r5875.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "pcsx2-r5875.exe",
+          "name": "pcsx2.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -118401,12 +118451,12 @@
       "name": "Peggle Deluxe",
       "executables": [
         {
-          "name": "peggle/popcapgame1.exe",
+          "name": "peggle deluxe/peggle.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "peggle deluxe/peggle.exe",
+          "name": "peggle/popcapgame1.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -118417,12 +118467,12 @@
       "name": "Peggle Extreme",
       "executables": [
         {
-          "name": "peggleextreme/popcapgame1.exe",
+          "name": "peggleextreme.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "peggleextreme.exe",
+          "name": "peggleextreme/popcapgame1.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -119148,6 +119198,11 @@
           "source": "discord-detectable"
         }
       ]
+    },
+    {
+      "id": "1566301629798424648",
+      "name": "Phantom Blade Zero",
+      "executables": []
     },
     {
       "id": "1440541545135865926",
@@ -120149,12 +120204,12 @@
       "name": "Pirate101",
       "executables": [
         {
-          "name": "pirate101.exe",
+          "name": "pirate.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "pirate.exe",
+          "name": "pirate101.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -120355,12 +120410,12 @@
       "name": "Pixel Dungeon VR",
       "executables": [
         {
-          "name": "pixel_dungeons.exe",
+          "name": "pixel dungeon/pd.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "pixel dungeon/pd.exe",
+          "name": "pixel_dungeons.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -121130,12 +121185,12 @@
       "name": "Plants vs. Zombies",
       "executables": [
         {
-          "name": "plants vs. zombies/popcapgame1.exe",
+          "name": "plantsvszombies.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "plantsvszombies.exe",
+          "name": "plants vs. zombies/popcapgame1.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -122073,12 +122128,12 @@
       "name": "POLYGON",
       "executables": [
         {
-          "name": "win64/polygon-win64-shipping.exe",
+          "name": "polygon/polygon.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "polygon/polygon.exe",
+          "name": "win64/polygon-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -122456,12 +122511,12 @@
       "name": "Portal",
       "executables": [
         {
-          "name": "hl2p.exe",
+          "name": "portal/hl2.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "portal/hl2.exe",
+          "name": "hl2p.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -122626,12 +122681,12 @@
       "name": "Postal 2",
       "executables": [
         {
-          "name": "postal2.exe",
+          "name": "system/paradiselost.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "system/paradiselost.exe",
+          "name": "postal2.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -123391,12 +123446,12 @@
       "name": "Prince of Persia",
       "executables": [
         {
-          "name": "princeofpersia_launcher.exe",
+          "name": "prince of persia/launcher/launcher.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "prince of persia/launcher/launcher.exe",
+          "name": "princeofpersia_launcher.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -123878,6 +123933,11 @@
     {
       "id": "1442719657663664128",
       "name": "Pro Flight Simulator Deluxe",
+      "executables": []
+    },
+    {
+      "id": "1566301697133908048",
+      "name": "Pro Football Referee",
       "executables": []
     },
     {
@@ -125172,7 +125232,12 @@
       "name": "PUBG LITE",
       "executables": [
         {
-          "name": "pubglite/pubg lite.exe",
+          "name": "win64/pubglite-win64-shipping.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "pubglite.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -125182,22 +125247,17 @@
           "source": "discord-detectable"
         },
         {
-          "name": "pubglite/launcher_updater.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "win64/pubglite-win64-shipping.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "pubglite/launcher.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "pubglite.exe",
+          "name": "pubglite/launcher_updater.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "pubglite/pubg lite.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -125208,7 +125268,7 @@
       "name": "PUBG: BATTLEGROUNDS",
       "executables": [
         {
-          "name": "win64/tslgame_uc.exe",
+          "name": "tslgame_be.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -125218,17 +125278,17 @@
           "source": "discord-detectable"
         },
         {
-          "name": "tslgame_be.exe",
+          "name": "win64/tslgame.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "win64/tslgame_uc.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "tslgame.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "win64/tslgame.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -127217,12 +127277,12 @@
       "name": "Ragnarok Online",
       "executables": [
         {
-          "name": "ragexe.exe",
+          "name": "clragexe.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "clragexe.exe",
+          "name": "ragexe.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -127254,12 +127314,12 @@
       "name": "Ragnarok: The New World",
       "executables": [
         {
-          "name": "roworld/game.exe",
+          "name": "roworldsea/downloader.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "roworldsea/downloader.exe",
+          "name": "roworld/game.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -127280,8 +127340,8 @@
       "name": "Raid: Shadow Legends",
       "executables": [
         {
-          "name": "raid.exe",
-          "os": "win32",
+          "name": "raid.app",
+          "os": "darwin",
           "source": "discord-detectable"
         },
         {
@@ -127290,8 +127350,8 @@
           "source": "discord-detectable"
         },
         {
-          "name": "raid.app",
-          "os": "darwin",
+          "name": "raid.exe",
+          "os": "win32",
           "source": "discord-detectable"
         }
       ]
@@ -128210,12 +128270,12 @@
       "name": "Re-Volt",
       "executables": [
         {
-          "name": "revolt.exe",
+          "name": "rvgl.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "rvgl.exe",
+          "name": "revolt.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -128475,12 +128535,12 @@
       "name": "Realm Royale Reforged",
       "executables": [
         {
-          "name": "realm royale/realmbootstrapper.exe",
+          "name": "realm royale/binaries/win64/realmeac.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "realm royale/binaries/win64/realmeac.exe",
+          "name": "realm royale/realmbootstrapper.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -128699,7 +128759,7 @@
       "name": "Rec Room",
       "executables": [
         {
-          "name": "recroom.exe",
+          "name": "recroom/recroom.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -128709,7 +128769,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "recroom/recroom.exe",
+          "name": "recroom.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -128949,12 +129009,12 @@
       "name": "Red Faction: Guerrilla Re-Mars-tered",
       "executables": [
         {
-          "name": "red faction guerrilla re-mars-tered/rfg.exe",
+          "name": "rfg.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "rfg.exe",
+          "name": "red faction guerrilla re-mars-tered/rfg.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -130617,12 +130677,12 @@
       "name": "Return to Castle Wolfenstein",
       "executables": [
         {
-          "name": "wolfmp.exe",
+          "name": "wolfsp.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "wolfsp.exe",
+          "name": "wolfmp.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -130676,13 +130736,13 @@
       "name": "Reus",
       "executables": [
         {
-          "name": "reus.exe",
-          "os": "win32",
+          "name": "reus.app",
+          "os": "darwin",
           "source": "discord-detectable"
         },
         {
-          "name": "reus.app",
-          "os": "darwin",
+          "name": "reus.exe",
+          "os": "win32",
           "source": "discord-detectable"
         }
       ]
@@ -131246,17 +131306,17 @@
       "name": "Rift",
       "executables": [
         {
-          "name": "rift/glyphclientapp.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "rift.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "rift_x64.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "rift/glyphclientapp.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -131506,12 +131566,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "darkfall.exe",
+          "name": "darkfall roa/darkfall_roa.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "darkfall roa/darkfall_roa.exe",
+          "name": "darkfall.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -131521,12 +131581,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "data/darkfall.exe",
+          "name": "darkfall_roa.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "darkfall_roa.exe",
+          "name": "data/darkfall.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -132228,6 +132288,11 @@
       ]
     },
     {
+      "id": "1566301766029410356",
+      "name": "ROB RUN",
+      "executables": []
+    },
+    {
       "id": "1442719106544439317",
       "name": "Robbery Rush",
       "executables": []
@@ -132355,12 +132420,12 @@
       "name": "Robocraft",
       "executables": [
         {
-          "name": "robocraft.exe",
+          "name": "robocraftclient.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "robocraftclient.exe",
+          "name": "robocraft.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -132790,12 +132855,12 @@
       "name": "Rocksmith 2014 Edition: Remastered",
       "executables": [
         {
-          "name": "rocksmith2014/rocksmith2014.exe",
+          "name": "rocksmith2014.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "rocksmith2014.exe",
+          "name": "rocksmith2014/rocksmith2014.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -133756,12 +133821,12 @@
       "name": "Rosenkreuzstilette",
       "executables": [
         {
-          "name": "rks.exe",
+          "name": "rks_e.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "rks_e.exe",
+          "name": "rks.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -134518,12 +134583,17 @@
       "name": "RuneScape",
       "executables": [
         {
-          "name": "osbuddy64.exe",
+          "name": "osbuddy.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "jagexcache/jagexlauncher/bin/jagexlauncher.exe",
+          "name": "runescape.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "osbuddy64.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -134533,18 +134603,13 @@
           "source": "discord-detectable"
         },
         {
-          "name": "osbuddy.exe",
+          "name": "jagexcache/jagexlauncher/bin/jagexlauncher.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "runescape.app",
           "os": "darwin",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "runescape.exe",
-          "os": "win32",
           "source": "discord-detectable"
         }
       ]
@@ -134772,17 +134837,17 @@
       "name": "Rust",
       "executables": [
         {
-          "name": "rustclient.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "rust.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "rust/rustclient.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "rustclient.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -135028,7 +135093,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "games/specialforce2/binaries/win32/sf2.exe",
+          "name": "skill/dfubg.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -135038,7 +135103,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "skill/dfubg.exe",
+          "name": "games/specialforce2/binaries/win32/sf2.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -135096,12 +135161,12 @@
       "name": "S.T.A.L.K.E.R.: Call of Pripyat",
       "executables": [
         {
-          "name": "stalker call of pripyat/stalker-cop.exe",
+          "name": "stalker call of pripyat/bin/xrengine.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "stalker call of pripyat/bin/xrengine.exe",
+          "name": "stalker call of pripyat/stalker-cop.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -135123,12 +135188,12 @@
       "name": "S.T.A.L.K.E.R.: Clear Sky",
       "executables": [
         {
-          "name": "stalker clear sky/bin/xrengine.exe",
+          "name": "stalker clear sky/xrengine.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "stalker clear sky/xrengine.exe",
+          "name": "stalker clear sky/bin/xrengine.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -135581,12 +135646,12 @@
       "name": "Saints Row: The Third",
       "executables": [
         {
-          "name": "saintsrowthethird.exe",
+          "name": "saintsrowthethird_dx11.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "saintsrowthethird_dx11.exe",
+          "name": "saintsrowthethird.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -136446,12 +136511,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "factorygameegs-win64-shipping.exe",
+          "name": "factorygame-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "factorygame-win64-shipping.exe",
+          "name": "factorygameegs-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -136905,12 +136970,12 @@
       "name": "Schedule I",
       "executables": [
         {
-          "name": "schedule i/schedule i.exe",
+          "name": "schedule i demo/schedule i free sample.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "schedule i demo/schedule i free sample.exe",
+          "name": "schedule i/schedule i.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -137850,6 +137915,11 @@
       "name": "Sea of Thieves",
       "executables": [
         {
+          "name": "sotgame.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "win64/sotgame.exe",
           "os": "win32",
           "source": "discord-detectable"
@@ -137861,11 +137931,6 @@
         },
         {
           "name": "content/seaofthieves.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "sotgame.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -139316,12 +139381,12 @@
       "name": "Shadow Complex Remastered",
       "executables": [
         {
-          "name": "shadowcomplex-win32.exe",
+          "name": "shadowcomplex-win32-egl.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "shadowcomplex-win32-egl.exe",
+          "name": "shadowcomplex-win32.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -139431,12 +139496,12 @@
       "name": "Shadow of the Tomb Raider",
       "executables": [
         {
-          "name": "shadow of the tomb raider/sottr.exe",
+          "name": "sottr.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "sottr.exe",
+          "name": "shadow of the tomb raider/sottr.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -139795,12 +139860,12 @@
       "name": "Shakes and Fidget",
       "executables": [
         {
-          "name": "shakes & fidget/shakesandfidget.exe",
+          "name": "shakes and fidget.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "shakes and fidget.exe",
+          "name": "shakes & fidget/shakesandfidget.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -139873,12 +139938,12 @@
       "name": "Shantae and the Pirate's Curse",
       "executables": [
         {
-          "name": "shantaecurse.exe",
+          "name": "shantae and the pirate's curse.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "shantae and the pirate's curse.exe",
+          "name": "shantaecurse.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -140162,12 +140227,12 @@
       "name": "Shattered Skies",
       "executables": [
         {
-          "name": "shatteredskies.exe",
+          "name": "shatteredskies/lms.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "shatteredskies/lms.exe",
+          "name": "shatteredskies.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -141486,12 +141551,12 @@
       "name": "Sid Meier's Civilization: Beyond Earth",
       "executables": [
         {
-          "name": "civilizationbe_dx11.exe",
+          "name": "civilizationbe_mantle.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "civilizationbe_mantle.exe",
+          "name": "civilizationbe_dx11.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -142258,13 +142323,13 @@
       "name": "SinaRun",
       "executables": [
         {
-          "name": "sinarun.exe",
-          "os": "win32",
+          "name": "sinarun.app",
+          "os": "darwin",
           "source": "discord-detectable"
         },
         {
-          "name": "sinarun.app",
-          "os": "darwin",
+          "name": "sinarun.exe",
+          "os": "win32",
           "source": "discord-detectable"
         }
       ]
@@ -142994,12 +143059,12 @@
       "name": "Skull and Bones",
       "executables": [
         {
-          "name": "skull and bones/skullandbones.exe",
+          "name": "skull and bones (open beta)/skullandbones.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "skull and bones (open beta)/skullandbones.exe",
+          "name": "skull and bones/skullandbones.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -143379,7 +143444,7 @@
     },
     {
       "id": "1563402355192504361",
-      "name": "Slam Tank",
+      "name": "SLAM TANK",
       "executables": []
     },
     {
@@ -143761,12 +143826,12 @@
       "name": "Slime CCG",
       "executables": [
         {
-          "name": "los-win64-shipping.exe",
+          "name": "slime ccg.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "slime ccg.exe",
+          "name": "los-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -144252,12 +144317,12 @@
       "name": "SMITE 2",
       "executables": [
         {
-          "name": "windows/hemingway.exe",
+          "name": "win64/hemingway-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "win64/hemingway-win64-shipping.exe",
+          "name": "windows/hemingway.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -144547,12 +144612,7 @@
       "name": "Sniper Elite 4",
       "executables": [
         {
-          "name": "sniperelite4_dx11.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "sniperelite4.exe",
+          "name": "sniperelite4_dx12.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -144562,7 +144622,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "sniperelite4_dx12.exe",
+          "name": "sniperelite4_dx11.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "sniperelite4.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -144854,12 +144919,12 @@
       "name": "Snowbreak: Containment Zone",
       "executables": [
         {
-          "name": "snowbreak/game/game/binaries/win64/game.exe",
+          "name": "snowbreak/game/binaries/win64/game.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "snowbreak/game/binaries/win64/game.exe",
+          "name": "snowbreak/game/game/binaries/win64/game.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -145708,12 +145773,12 @@
       "name": "Sonic Adventure 2",
       "executables": [
         {
-          "name": "sonic2app.exe",
+          "name": "sonic adventure 2/sa2modmanager.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "sonic adventure 2/sa2modmanager.exe",
+          "name": "sonic2app.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -147529,22 +147594,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "spellcraft-live/game/run/tap.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "spellcraft-staging/game/run/tap.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "spellcraft-live.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "spellcraft dev (staging)/unitycrashhandler64.exe",
+          "name": "v0/spellcraft.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -147554,17 +147604,32 @@
           "source": "discord-detectable"
         },
         {
-          "name": "v0/spellcraft.exe",
+          "name": "spellcraft-staging.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "spellcraft-live/game/run/tap.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "spellcraft-live.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "spellcraft-staging/game/run/tap.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "spellcraft dev (staging)/unitycrashhandler64.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "spellcraft-gamelab/game/run/tap.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "spellcraft-staging.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -147958,13 +148023,13 @@
       "name": "Spirit City: Lofi Sessions",
       "executables": [
         {
-          "name": "win64/spiritcity-win64-shipping.exe",
-          "os": "win32",
+          "name": "spirit city - lofi sessions.app",
+          "os": "darwin",
           "source": "discord-detectable"
         },
         {
-          "name": "spirit city - lofi sessions.app",
-          "os": "darwin",
+          "name": "win64/spiritcity-win64-shipping.exe",
+          "os": "win32",
           "source": "discord-detectable"
         }
       ]
@@ -148261,7 +148326,7 @@
       "name": "SPLITGATE: Arena Reloaded",
       "executables": [
         {
-          "name": "splitgate 2 playtest/launcher.exe",
+          "name": "win64/portalwars2client-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -148271,7 +148336,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "win64/portalwars2client-win64-shipping.exe",
+          "name": "splitgate 2 playtest/launcher.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -148645,12 +148710,12 @@
       "name": "Squad",
       "executables": [
         {
-          "name": "squad/squad_launcher.exe",
+          "name": "squad/squadgame/binaries/win64/squadgame.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "squad/squadgame/binaries/win64/squadgame.exe",
+          "name": "squad/squad_launcher.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -148677,12 +148742,12 @@
       "name": "Squad 44",
       "executables": [
         {
-          "name": "postscriptum.exe",
+          "name": "win64/postscriptum.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "win64/postscriptum.exe",
+          "name": "postscriptum.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -149179,12 +149244,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "star trek online/live/x64/gameclient.exe",
+          "name": "star trek online.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "star trek online.exe",
+          "name": "star trek online/live/x64/gameclient.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -149436,12 +149501,12 @@
       "name": "Star Wars: Empire at War - Gold Pack",
       "executables": [
         {
-          "name": "sweaw.exe",
+          "name": "starwarsg.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "starwarsg.exe",
+          "name": "sweaw.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -149473,6 +149538,11 @@
       "name": "Star Wars: Galactic Battlegrounds Saga",
       "executables": [
         {
+          "name": "swgbg.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "battlegrounds_cc.exe",
           "os": "win32",
           "source": "discord-detectable"
@@ -149483,17 +149553,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "battlegrounds_x1.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "swgbwide_x1.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "swgbg.exe",
+          "name": "battlegrounds_x1.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -149540,12 +149605,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "jk.exe",
+          "name": "jedi.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "jedi.exe",
+          "name": "jk.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -149556,12 +149621,12 @@
       "name": "Star Wars: Jedi Knight - Jedi Academy",
       "executables": [
         {
-          "name": "jediacademy.exe",
+          "name": "jamp.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "jamp.exe",
+          "name": "jediacademy.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -149593,12 +149658,7 @@
       "name": "Star Wars: Jedi Knight II - Jedi Outcast",
       "executables": [
         {
-          "name": "jk2sp.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "jk2mp.exe",
+          "name": "jk2mvmp_x64.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -149608,7 +149668,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "jk2mvmp_x64.exe",
+          "name": "jk2sp.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "jk2mp.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -149958,17 +150023,17 @@
           "source": "discord-detectable"
         },
         {
-          "name": "sc2_x64.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "sc2.app",
           "os": "darwin",
           "source": "discord-detectable"
         },
         {
           "name": "starcraft ii.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "sc2_x64.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -150011,12 +150076,12 @@
       "name": "Stardew Valley",
       "executables": [
         {
-          "name": "stardew valley.exe",
+          "name": "stardew valley/stardew valley.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "stardew valley/stardew valley.exe",
+          "name": "stardew valley.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -151512,12 +151577,12 @@
       "name": "Storm Lancers",
       "executables": [
         {
-          "name": "stormheartsteam-win64-shipping.exe",
+          "name": "stormlancersdemo.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "stormlancersdemo.exe",
+          "name": "stormheartsteam-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -152669,6 +152734,11 @@
     {
       "id": "1428187463519834254",
       "name": "Studio System: Guardian Angel",
+      "executables": []
+    },
+    {
+      "id": "1566301795834273852",
+      "name": "Studs Up!",
       "executables": []
     },
     {
@@ -154923,12 +154993,12 @@
       "name": "SUPERHOT",
       "executables": [
         {
-          "name": "superhot/sh.exe",
+          "name": "superhot.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "superhot.exe",
+          "name": "superhot/sh.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -155177,7 +155247,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "loki-win64-shipping.exe",
+          "name": "loki/loki.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -155187,17 +155257,17 @@
           "source": "discord-detectable"
         },
         {
-          "name": "loki/loki.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "supervive.exe",
+          "name": "loki-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "loki.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "supervive.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -155224,12 +155294,12 @@
       "name": "Supraball",
       "executables": [
         {
-          "name": "supraball/binaries/win64/udk.exe",
+          "name": "supraball/binaries/win32/udk.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "supraball/binaries/win32/udk.exe",
+          "name": "supraball/binaries/win64/udk.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -155990,12 +156060,12 @@
       "name": "SWAT 4",
       "executables": [
         {
-          "name": "swat4.exe",
+          "name": "swat4x.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "swat4x.exe",
+          "name": "swat4.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -156432,12 +156502,12 @@
       "name": "Swords of Gurrah",
       "executables": [
         {
-          "name": "gurrah-win64-shipping.exe",
+          "name": "gurrah.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "gurrah.exe",
+          "name": "gurrah-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -156741,7 +156811,7 @@
       "name": "System Shock 2",
       "executables": [
         {
-          "name": "system shock2.exe",
+          "name": "ss2/ss2.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -156751,7 +156821,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "ss2/ss2.exe",
+          "name": "system shock2.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -157453,12 +157523,12 @@
       "name": "Tales from the Borderlands",
       "executables": [
         {
-          "name": "b24f49f9-d7fe-40b6-8f4d-65b0c6bf6a6b/borderlands.exe",
+          "name": "tales from the borderlands/borderlands.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "tales from the borderlands/borderlands.exe",
+          "name": "b24f49f9-d7fe-40b6-8f4d-65b0c6bf6a6b/borderlands.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -157596,17 +157666,12 @@
       "name": "Tales of Monkey Island",
       "executables": [
         {
-          "name": "monkeyisland101.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "monkeyisland105.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "monkeyisland102.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "monkeyisland104.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -157616,7 +157681,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "monkeyisland104.exe",
+          "name": "monkeyisland105.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "monkeyisland101.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -157744,12 +157814,12 @@
       "name": "Tales of Zestiria",
       "executables": [
         {
-          "name": "tales of zestiria/tales of zestiria.exe",
+          "name": "tales of zestiria.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "tales of zestiria.exe",
+          "name": "tales of zestiria/tales of zestiria.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -157980,12 +158050,12 @@
       "name": "Tanki Online",
       "executables": [
         {
-          "name": "tanki online.exe",
+          "name": "backup/tanki online.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "tanki online/tanki online.exe",
+          "name": "gtanki online.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -157995,12 +158065,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "tanki online — копия/tanki online.exe",
+          "name": "tanki online/tankionline.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "tanki online/tankionline.exe",
+          "name": "tanki online.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -158015,12 +158085,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "gtanki online.exe",
+          "name": "tanki online — копия/tanki online.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "backup/tanki online.exe",
+          "name": "tanki online/tanki online.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -158639,7 +158709,7 @@
       "name": "Team Fortress 2",
       "executables": [
         {
-          "name": "hl2tf.exe",
+          "name": ">hl2.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -158649,7 +158719,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": ">hl2.exe",
+          "name": "hl2tf.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -160504,11 +160574,6 @@
       "name": "The Binding of Isaac",
       "executables": [
         {
-          "name": "isaac.app",
-          "os": "darwin",
-          "source": "discord-detectable"
-        },
-        {
           "name": "isaac.exe",
           "os": "win32",
           "source": "discord-detectable"
@@ -160516,6 +160581,11 @@
         {
           "name": "binding_of_isaac.exe",
           "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "isaac.app",
+          "os": "darwin",
           "source": "discord-detectable"
         }
       ]
@@ -160530,12 +160600,7 @@
       "name": "The Binding of Isaac: Rebirth",
       "executables": [
         {
-          "name": "isaacitempooleditor/itempooleditor.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "roomeditor/roomeditor.exe",
+          "name": "isaacanimationeditor/isaacanimationeditor.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -160545,13 +160610,18 @@
           "source": "discord-detectable"
         },
         {
-          "name": "isaacanimationeditor/isaacanimationeditor.exe",
+          "name": "the binding of isaac rebirth.app",
+          "os": "darwin",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "roomeditor/roomeditor.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "the binding of isaac rebirth.app",
-          "os": "darwin",
+          "name": "isaacitempooleditor/itempooleditor.exe",
+          "os": "win32",
           "source": "discord-detectable"
         }
       ]
@@ -161446,12 +161516,12 @@
       "name": "The Crew 2",
       "executables": [
         {
-          "name": "thecrew2.exe",
+          "name": "the crew 2/thecrew2.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "the crew 2/thecrew2.exe",
+          "name": "thecrew2.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -162101,12 +162171,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "morrowind.exe",
+          "name": "mlox/mlox.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "mlox/mlox.exe",
+          "name": "morrowind/morrowind code patch.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -162116,7 +162186,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "morrowind/morrowind code patch.exe",
+          "name": "morrowind.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -162137,12 +162207,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "oblivion/obse_loader.exe",
+          "name": "oblivion/oblivion.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "oblivion/oblivion.exe",
+          "name": "oblivion/obse_loader.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -162158,12 +162228,12 @@
       "name": "The Elder Scrolls IV: Oblivion Remastered",
       "executables": [
         {
-          "name": "win64/oblivionremastered-win64-shipping.exe",
+          "name": "wingdk/oblivionremastered-wingdk-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "wingdk/oblivionremastered-wingdk-shipping.exe",
+          "name": "win64/oblivionremastered-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -162184,12 +162254,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "launcher/bethesda.net_launcher.exe",
+          "name": "game/client/eso64.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "game/client/eso64.exe",
+          "name": "launcher/bethesda.net_launcher.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -163207,12 +163277,12 @@
       "name": "The Guild: Gold Edition",
       "executables": [
         {
-          "name": "europa1400gold_tl.exe",
+          "name": "europa1400gold.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "europa1400gold.exe",
+          "name": "europa1400gold_tl.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -165784,6 +165854,11 @@
       "executables": []
     },
     {
+      "id": "1566301935336689705",
+      "name": "The Onion Voting Simulator 3D",
+      "executables": []
+    },
+    {
       "id": "1554705116437942354",
       "name": "The Only Droid",
       "executables": []
@@ -165863,12 +165938,12 @@
       "name": "The Outer Worlds",
       "executables": [
         {
-          "name": "win64/indianaepicgamestore-win64-shipping.exe",
+          "name": "indianaepicgamestore-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "indianaepicgamestore-win64-shipping.exe",
+          "name": "win64/indianaepicgamestore-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -166882,12 +166957,12 @@
       "name": "The Secret World",
       "executables": [
         {
-          "name": "thesecretworld.exe",
+          "name": "secretworldlegendsdx11.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "secretworldlegendsdx11.exe",
+          "name": "thesecretworld.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -167211,12 +167286,12 @@
       "name": "The Sims 3",
       "executables": [
         {
-          "name": "ts3.exe",
+          "name": "ts3w.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "ts3w.exe",
+          "name": "ts3.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -167232,23 +167307,23 @@
       "name": "The Sims 4",
       "executables": [
         {
-          "name": "ts4_dx9_x64.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "ts4_x64.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "ts4.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "the sims 4.app",
           "os": "darwin",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "ts4_dx9_x64.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "ts4.exe",
+          "os": "win32",
           "source": "discord-detectable"
         }
       ]
@@ -170722,6 +170797,11 @@
       "name": "tModLoader",
       "executables": [
         {
+          "name": "6.0.0/dotnet.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "launchutils/busybox64.exe",
           "os": "win32",
           "source": "discord-detectable"
@@ -170733,11 +170813,6 @@
         },
         {
           "name": "tmodloader/tmodloader.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "6.0.0/dotnet.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -171103,12 +171178,12 @@
       "name": "Tom Clancy's Ghost Recon: Breakpoint",
       "executables": [
         {
-          "name": "grb_vulkan.exe",
+          "name": "grb.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "grb.exe",
+          "name": "ghost recon breakpoint/grb.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -171118,7 +171193,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "ghost recon breakpoint/grb.exe",
+          "name": "grb_vulkan.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -171129,12 +171204,12 @@
       "name": "Tom Clancy's Ghost Recon: Future Soldier",
       "executables": [
         {
-          "name": "future soldier.exe",
+          "name": "future soldier dx11.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "future soldier dx11.exe",
+          "name": "future soldier.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -171410,12 +171485,12 @@
       "name": "Tomb Raider: Anniversary",
       "executables": [
         {
-          "name": "tra.exe",
+          "name": "tomb raider anniversary/tra.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "tomb raider anniversary/tra.exe",
+          "name": "tra.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -171958,12 +172033,12 @@
       "name": "Tormentor X Punisher",
       "executables": [
         {
-          "name": "tormentorxpunishergit.exe",
+          "name": "tormentorxpunisher.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "tormentorxpunisher.exe",
+          "name": "tormentorxpunishergit.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -172391,12 +172466,12 @@
       "name": "Touhou 14.5: Urban Legend in Limbo",
       "executables": [
         {
-          "name": "th145e.exe",
+          "name": "th145.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "th145.exe",
+          "name": "th145e.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -172535,12 +172610,12 @@
       "name": "Touhou Fuujinroku: Mountain of Faith",
       "executables": [
         {
-          "name": "th10.exe",
+          "name": "th10e.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "th10e.exe",
+          "name": "th10.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -172612,12 +172687,12 @@
       "name": "Touhou Hisoutensoku: Choudokyuu Ginyoru no Nazo wo Oe",
       "executables": [
         {
-          "name": "th123.exe",
+          "name": "th123e.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "th123e.exe",
+          "name": "th123.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -172655,12 +172730,12 @@
       "name": "Touhou Kaeizuka: Phantasmagoria of Flower View",
       "executables": [
         {
-          "name": "th09e.exe",
+          "name": "th09.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "th09.exe",
+          "name": "th09e.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -172671,12 +172746,12 @@
       "name": "Touhou Kanjuden: Legacy of Lunatic Kingdom",
       "executables": [
         {
-          "name": "th15.exe",
+          "name": "th15e.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "th15e.exe",
+          "name": "th15.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -175037,13 +175112,13 @@
       "name": "Trine 2: Complete Story",
       "executables": [
         {
-          "name": "trine2_32bit.exe",
-          "os": "win32",
+          "name": "trine2.app",
+          "os": "darwin",
           "source": "discord-detectable"
         },
         {
-          "name": "trine2.app",
-          "os": "darwin",
+          "name": "trine2_32bit.exe",
+          "os": "win32",
           "source": "discord-detectable"
         }
       ]
@@ -175053,12 +175128,12 @@
       "name": "Trine 3: The Artifacts of Power",
       "executables": [
         {
-          "name": "trine3_32bit.exe",
+          "name": "trine3_64bit.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "trine3_64bit.exe",
+          "name": "trine3_32bit.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -175096,11 +175171,6 @@
       "name": "Trine Enchanted Edition",
       "executables": [
         {
-          "name": "trine1_32bit.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "trine.exe",
           "os": "win32",
           "source": "discord-detectable"
@@ -175112,6 +175182,11 @@
         },
         {
           "name": "trine/wmfdist11-windowsxp-x86-enu.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "trine1_32bit.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -175432,12 +175507,12 @@
       "name": "Trove",
       "executables": [
         {
-          "name": "trove.exe",
+          "name": "trove/glyphclientapp.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "trove/glyphclientapp.exe",
+          "name": "trove.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -177155,12 +177230,12 @@
       "name": "Unbeatable: White Label",
       "executables": [
         {
-          "name": "unbeatable/unbeatable [white label].exe",
+          "name": "unbeatable [white label]/unbeatable [white label].exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "unbeatable [white label]/unbeatable [white label].exe",
+          "name": "unbeatable/unbeatable [white label].exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -178566,7 +178641,7 @@
       "name": "Unturned",
       "executables": [
         {
-          "name": "unturned/unturned.exe",
+          "name": "unturned.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -178576,7 +178651,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "unturned.exe",
+          "name": "unturned/unturned.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -178903,13 +178978,13 @@
       "name": "UV Slayer Playground",
       "executables": [
         {
-          "name": "slayer-playground.app",
-          "os": "darwin",
+          "name": "slayer-playground.exe",
+          "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "slayer-playground.exe",
-          "os": "win32",
+          "name": "slayer-playground.app",
+          "os": "darwin",
           "source": "discord-detectable"
         }
       ]
@@ -179945,12 +180020,12 @@
       "name": "Verdun",
       "executables": [
         {
-          "name": "verdun.exe",
+          "name": "1914-1918 series.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "1914-1918 series.exe",
+          "name": "verdun.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -181334,7 +181409,7 @@
       "name": "VRChat",
       "executables": [
         {
-          "name": "vrchat/launch.exe",
+          "name": "vrchat/start_protected_game.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -181344,7 +181419,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "vrchat/start_protected_game.exe",
+          "name": "vrchat/launch.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -181589,13 +181664,13 @@
       "name": "WAKFU",
       "executables": [
         {
-          "name": "wakfu.app",
-          "os": "darwin",
+          "name": "wakfu.exe",
+          "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "wakfu.exe",
-          "os": "win32",
+          "name": "wakfu.app",
+          "os": "darwin",
           "source": "discord-detectable"
         }
       ]
@@ -182090,23 +182165,23 @@
       "name": "Warcraft III: Reign of Chaos",
       "executables": [
         {
+          "name": "wc3.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "warcraft iii/frozen throne.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "wc3.exe",
+          "name": "warcraft iii.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "warcraft iii.app",
           "os": "darwin",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "warcraft iii.exe",
-          "os": "win32",
           "source": "discord-detectable"
         },
         {
@@ -182151,17 +182226,17 @@
       "name": "Warface",
       "executables": [
         {
+          "name": "bin64release/game.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "warface/bin32release/game.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "gamecenter/bin32release/game.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "bin64release/game.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -182204,12 +182279,12 @@
       "name": "Warframe",
       "executables": [
         {
-          "name": "warframe.exe",
+          "name": "warframe.x64.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "warframe.x64.exe",
+          "name": "warframe.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -182359,12 +182434,12 @@
       "name": "Warhammer 40,000: Dawn of War - Dark Crusade",
       "executables": [
         {
-          "name": "dawn of war dark crusade/darkcrusade.exe",
+          "name": "dawn of war dark crusade/graphicsconfig.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "dawn of war dark crusade/graphicsconfig.exe",
+          "name": "dawn of war dark crusade/darkcrusade.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -182407,37 +182482,12 @@
           "source": "discord-detectable"
         },
         {
-          "name": "dawn of war soulstorm/dow mod manager v2.3.1.0.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "dawn of war soulstorm/dow mod manager v1.52.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "unification_bugfix/unification configurator 1.0.2.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "dawn of war soulstorm/dow mod manager v2.1.6.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
           "name": "dawn of war soulstorm/tyranid_mod_0.5b3_installer.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "dawn of war soulstorm/dow mod manager v2.1.5.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "dawn of war soulstorm/dow mod manager v2.1.3.exe",
+          "name": "dawn of war soulstorm/dow mod manager 1.3.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -182447,7 +182497,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "dawn of war soulstorm/dow mod manager v2.1.9.exe",
+          "name": "dawn of war soulstorm/dow mod manager v2.1.3.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -182457,17 +182507,27 @@
           "source": "discord-detectable"
         },
         {
+          "name": "unification_bugfix/unification configurator 1.0.2.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "dawn of war soulstorm/dow mod manager v1.52.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "dawn of war soulstorm/dow mod manager v1.4.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "dawn of war soulstorm/4gb_patch.exe",
+          "name": "dawn of war soulstorm/dow mod manager v2.1.6.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "dawn of war soulstorm/dow mod manager v2.3.2.2.exe",
+          "name": "dawn of war soulstorm/dow mod manager v2.3.1.0.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -182477,7 +182537,22 @@
           "source": "discord-detectable"
         },
         {
-          "name": "dawn of war soulstorm/dow mod manager 1.3.exe",
+          "name": "dawn of war soulstorm/dow mod manager v2.1.9.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "dawn of war soulstorm/dow mod manager v2.3.2.2.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "dawn of war soulstorm/4gb_patch.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "dawn of war soulstorm/dow mod manager v2.1.5.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -182650,12 +182725,12 @@
       "name": "Warhammer 40,000: Space Marine",
       "executables": [
         {
-          "name": "spacemarine.exe",
+          "name": "warhammer 40,000 space marine/bssndrpt.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "warhammer 40,000 space marine/bssndrpt.exe",
+          "name": "spacemarine.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -182671,17 +182746,17 @@
       "name": "Warhammer 40,000: Space Marine II",
       "executables": [
         {
+          "name": "warhammer 40000 space marine 2.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "space marine 2/start_protected_game.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "warhammer 40,000 space marine 2 demo/start_protected_game.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "warhammer 40000 space marine 2.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -182836,12 +182911,12 @@
       "name": "Warhammer: Vermintide 2",
       "executables": [
         {
-          "name": "binaries_dx12/vermintide2_dx12.exe",
+          "name": "binaries/vermintide2.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "binaries/vermintide2.exe",
+          "name": "binaries_dx12/vermintide2_dx12.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -183201,7 +183276,7 @@
       "name": "Warzone 2100",
       "executables": [
         {
-          "name": "wz2100.exe",
+          "name": "warzone2100.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -183211,7 +183286,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "warzone2100.exe",
+          "name": "wz2100.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -183703,6 +183778,11 @@
           "source": "discord-detectable"
         }
       ]
+    },
+    {
+      "id": "1566301779480809482",
+      "name": "We Build Below",
+      "executables": []
     },
     {
       "id": "1545645095074795531",
@@ -185368,7 +185448,7 @@
       "name": "Wildgate",
       "executables": [
         {
-          "name": "win64/nebulaclient-win64-shipping.exe",
+          "name": "win64/nebulaclientsteam-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -185378,7 +185458,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "win64/nebulaclientsteam-win64-shipping.exe",
+          "name": "win64/nebulaclient-win64-shipping.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -185421,12 +185501,12 @@
       "name": "WildStar",
       "executables": [
         {
-          "name": "wildstar64.exe",
+          "name": "wildstar.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "wildstar.exe",
+          "name": "wildstar64.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -186456,17 +186536,17 @@
           "source": "discord-detectable"
         },
         {
+          "name": "wolfenstein the old blood/wolfoldblood_x64.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
           "name": "wolfoldblood_x64.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
           "name": "wolfoldblood_x32.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "wolfenstein the old blood/wolfoldblood_x64.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -187113,22 +187193,7 @@
       "name": "World of Warcraft",
       "executables": [
         {
-          "name": "_retail_/wow-64.exe",
-          "os": "win32",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "world of warcraft.app",
-          "os": "darwin",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "_retail_/world of warcraft.app",
-          "os": "darwin",
-          "source": "discord-detectable"
-        },
-        {
-          "name": "_beta_/wow.exe",
+          "name": "_retail_/wow.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
@@ -187143,8 +187208,23 @@
           "source": "discord-detectable"
         },
         {
-          "name": "_retail_/wow.exe",
+          "name": "_retail_/wow-64.exe",
           "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "_retail_/world of warcraft.app",
+          "os": "darwin",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "_beta_/wow.exe",
+          "os": "win32",
+          "source": "discord-detectable"
+        },
+        {
+          "name": "world of warcraft.app",
+          "os": "darwin",
           "source": "discord-detectable"
         },
         {
@@ -187181,8 +187261,8 @@
       "name": "World of Warcraft: Forever",
       "executables": [
         {
-          "name": "wowb.exe",
-          "os": "win32",
+          "name": "_forever_/world of warcraft.app",
+          "os": "darwin",
           "source": "discord-detectable"
         },
         {
@@ -187191,8 +187271,8 @@
           "source": "discord-detectable"
         },
         {
-          "name": "_forever_/world of warcraft.app",
-          "os": "darwin",
+          "name": "wowb.exe",
+          "os": "win32",
           "source": "discord-detectable"
         }
       ]
@@ -187892,12 +187972,12 @@
       "name": "Wurm Online",
       "executables": [
         {
-          "name": "wurm online/wurmlauncher64.exe",
+          "name": "wurmlauncher64.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "wurmlauncher64.exe",
+          "name": "wurm online/wurmlauncher64.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
@@ -187918,7 +187998,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "wutheringwaves.app",
+          "name": "wuthering waves.app",
           "os": "darwin",
           "source": "discord-detectable"
         },
@@ -187928,7 +188008,7 @@
           "source": "discord-detectable"
         },
         {
-          "name": "wuthering waves.app",
+          "name": "wutheringwaves.app",
           "os": "darwin",
           "source": "discord-detectable"
         }
@@ -189451,12 +189531,12 @@
       "name": "Yousei Daisensou: Touhou Sangetsusei",
       "executables": [
         {
-          "name": "th128e.exe",
+          "name": "th128.exe",
           "os": "win32",
           "source": "discord-detectable"
         },
         {
-          "name": "th128.exe",
+          "name": "th128e.exe",
           "os": "win32",
           "source": "discord-detectable"
         }
